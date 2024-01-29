@@ -1,4 +1,4 @@
-export default function ReachUs() {
+export default function Team() {
     return (
         <>
         </>
