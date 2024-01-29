@@ -1,11 +1,9 @@
-import Navigation from "./Components/Navigation";
+import Header from "./Components/Header";
 
 export default function Home() {
   return (
-    <div className="text-white">
-      <header>
-        <Navigation />
-      </header>
-    </div>
+    <>
+      <Header/>
+    </>
   );
 }
